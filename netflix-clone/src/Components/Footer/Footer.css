@@ -7,11 +7,9 @@
 
 .footer_inner_container {
   width: 60%;
-  /* background-color: red; */
 }
 
 .footer_icons {
-  /* background-color: blue; */
   width: 125px;
   display: flex;
   justify-content: space-between;
